@@ -14,14 +14,13 @@ The Web Browser Partially Uses Runtime From your Computers IE, so its bets to ha
 .Net FrameWork 1.1 (Included ON CD)
 Around 80 MegaBytes For .Net FrameWork
 16-32 MegaBytes Reccomended in RAM (Though, not Many Modern Web Pages Will Run Well on THAT)
-Windows NT 4.0 Service Pack 7/6A Or Windows 98 Or Higher
-This Will not Work on Windows 95 Or 3.x or Below Without Modifycation
+Windows NT 4.0 Service Pack 7/6A Or Windows 98 Or Higher (For Windows 95 you need unofficial .Net backport https://github.com/itsmattkc/dotnet9x)
 Internet Connection
-Floppy Port(If You Bough This on a floppy Disc)
-CD/DVD Drive(If YOu Bought THis on CD or Are Installing .NET from a CD)
+Floppy Port(If You Bought This on a floppy Disc)
+CD/DVD Drive(If YOu Bought This on CD or Are Installing .NET from a CD)
 Most DVD drives support CDs
 
-THe Browser Veiws Web Pages And Performance depend on A little on OS
+The Browser View Web Pages And Performance depend on A little on OS
 
 
 What Will You Get
